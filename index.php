@@ -38,6 +38,6 @@ textarea {
     <p><input type="submit" name="send" value="Create!"></p>
   </form>
 <hr>
-<p>© <a href="moto.php" alt="前のバージョンのURL" title="前のバージョン(ゴミ)"><font color="black">技術力の低さを「軽量化」という言い訳でごまかすプログラミング初心者の鑑</font></a></p>
+<p>© <a href="moto.php" alt="前のバージョンのURL" title="前のバージョン(ゴミ)"><font color="black">技術力の低さを「軽量化」という言い訳でごまかすプログラミング初心者の鑑</font></a><br><a href="https://milkey.homes/@a"><font color="black">作成者</font></a></p>
 </center>
 </body>
